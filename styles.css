@@ -1,0 +1,19 @@
+body{
+    background-color: red ;
+    text-align: center;
+}
+
+h1{
+    color: blue;
+}
+
+.friend{
+    background-color: black;
+    color: white;
+  
+}
+
+h3{
+    text-transform: uppercase;
+    
+}
